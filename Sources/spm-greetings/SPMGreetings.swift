@@ -5,4 +5,8 @@ public class SPMGreetings {
     public func greetWorld() -> String {
         return "Hello, world!"
     }
+
+    public func greetUniverse() -> String {
+        return "Hello, universe!"
+    }
 }
